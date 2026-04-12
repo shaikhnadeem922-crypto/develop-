@@ -1,11 +1,11 @@
-// Page sections mapping
+// Page sections mapping - FIXED for GitHub Pages
 const sections = {
-    home: 'sections/home.html',
-    about: 'sections/about.html',
-    products: 'sections/products.html',
-    reviews: 'sections/reviews.html',
-    faq: 'sections/faq.html',
-    contact: 'sections/contact.html'
+    home: '/develop-/sections/home.html',
+    about: '/develop-/sections/about.html',
+    products: '/develop-/sections/products.html',
+    reviews: '/develop-/sections/reviews.html',
+    faq: '/develop-/sections/faq.html',
+    contact: '/develop-/sections/contact.html'
 };
 
 let currentPage = 'home';
